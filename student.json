@@ -1,0 +1,40 @@
+{
+    "101": {
+        "name": "123",
+        "address": {
+            "street": "string",
+            "city": "33",
+            "state": "string",
+            "zip_code": "string"
+        }
+    },
+    "102": {
+        "name": "Priya Patel",
+        "address": {
+            "street": "45 MG Road",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pincode": "400001"
+        },
+        "phone_number": "+91 87654 32109"
+    },
+    "103": {
+        "name": "Rohan Verma",
+        "address": {
+            "street": "78 Park Street",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "pincode": "700016"
+        },
+        "phone_number": "+91 76543 21098"
+    },
+    "12": {
+        "name": "kalpesh",
+        "address": {
+            "street": "123",
+            "city": "string",
+            "state": "string",
+            "zip_code": "123"
+        }
+    }
+}
